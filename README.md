@@ -7,7 +7,7 @@
 [![ESLint](https://img.shields.io/badge/ESLint-4BAA51?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
 
 This is a simple Chatbot project built with React and Vite. It uses [Chatbot](https://www.npmjs.
-com/package/supersimpledev) package from @SuperSimpleDev to generate responses to user input. It does three things :
+com/package/supersimpledev) package from @supersimpledev to generate responses to user input. It does three things :
 - Replies to hello and thank you messages
 - Tells you today's date
 - Rolls a die
