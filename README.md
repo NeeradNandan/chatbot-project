@@ -12,7 +12,7 @@ This is a simple Chatbot project built with React and Vite. It uses the [Chatbot
 - Rolls a die
 - Flips a coin
 
-Thanks to @SuperSimpleDev.
+Thanks to [@SuperSimpleDev](https://github.com/SuperSimpleDev).
 
 > [!IMPORTANT]
 > The chatbot may lead to inaccurate results since the responses are not AI-generated but rather are default, and it 
