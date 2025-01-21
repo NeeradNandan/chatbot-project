@@ -1,5 +1,20 @@
 # ChatBot Project
 
-[![React](https://images.app.goo.gl/hx65YRKAFg95AwH78)](https://reactjs.org/)
-[![Free](https://img.shields.io/badge/free_for_non_commercial_use-brightgreen)](#-license)
+
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62B)](https://vitejs.dev/)
+[![ESLint](https://img.shields.io/badge/ESLint-4BAA51?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
+
+This is a simple Chatbot project built with React and Vite. It uses [Chatbot](https://www.npmjs.
+com/package/supersimpledev) package from @SuperSimpleDev to generate responses to user input. It does three things :
+- Replies to hello and thank you messages
+- Tells you today's date
+- Rolls a die
+- Flips a coin
+
+> [!IMPORTANT]
+> The chatbot may lead to inaccurate results since the responses are not AI-generated but rather is default, and it 
+> reads user messages based on regex
+
 
